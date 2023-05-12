@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nidhish0430@gmail.com**
 
-- ⚡ Fun fact **Not a typical CopyPaste/Tutorial Hell type dev developer**
+- ⚡ Fun fact **Not a typical CopyPaste/Tutorial Hell type dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
