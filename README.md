@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Web3(Ethereum)**
 
 - 💬 Ask me about : **MERN**
 
