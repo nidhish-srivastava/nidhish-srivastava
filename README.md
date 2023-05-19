@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Trying to be a Full Stack  Developer</h3>
 
 - 🌱 I’m currently learning **Web3(Ethereum)**
 
