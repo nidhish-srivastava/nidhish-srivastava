@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nidhish0430@gmail.com**
 
-- ⚡ Fun fact : **Not a typical CopyPaste/Tutorial Hell type dev**
-
 
 TECH STACK : 
 
