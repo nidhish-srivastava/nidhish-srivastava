@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,6 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">Trying to be a Full Stack  Developer</h3>
 
 - 💬 Ask me about : **MERN**
+  
+- 🌱 I’m currently learning **Typescript and vertically scaling my Mern skills  :))**
 
 - 📫 How to reach me **nidhish0430@gmail.com**
 
