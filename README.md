@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
 
 <h3 align="center">
-I am a Full Stack developer with higher profiency in front-end development
+I am a MERN Stack developer with higher profiency in front-end development
 </h3>
 
 
-Welcome to my GitHub repository! I'm a skilled Full Stack Developer with a focus on front-end development, proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB, Zustand, React Query, vanilla CSS, and HTML. I'm passionate about crafting intuitive and user-friendly web applications.
+Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a focus on front-end development, proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB, Zustand, React Query, vanilla CSS, and HTML. I'm passionate about crafting intuitive and user-friendly web applications.
 
 ## Skills
 
