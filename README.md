@@ -1,18 +1,4 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**nidhish-srivastava/nidhish-srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
 
 <h3 align="center">
@@ -28,9 +14,9 @@ Welcome to my GitHub repository! I'm a skilled Full Stack Developer with a focus
 - **Back-End Development:** Node.js, Express.js, MongoDB
 - **State Management:** Zustand, React Query
 - **Database:** MongoDB
-- **Styling:** Vanilla CSS, CSS frameworks (Bootstrap, Tailwind CSS)
+- **Styling:** Vanilla CSS
 - **Version Control:** Git, GitHub
-
+<!--
 ## Projects
 
 Here are some notable projects that showcase my skills and expertise:
@@ -40,13 +26,13 @@ Here are some notable projects that showcase my skills and expertise:
 3. **Project 3:** Brief description and link to the project's repository or live demo.
 
 Feel free to explore my repositories for more projects and code samples.
-
+-->
 ## Contact
 
 If you have any inquiries, collaboration opportunities, or just want to say hello, feel free to reach out to me through the following channels:
 
 - Email: [nidhish0430@gmail.com](mailto:your-email@example.com)
-- LinkedIn: [nidhish-srivastava](https://www.linkedin.com/in/your-name)
-- Personal Website/Portfolio: [your-website.com](https://www.your-website.com)
+- LinkedIn: [nidhish-srivastava](https://www.linkedin.com/in/nidhish-srivastava)
+  <!-- Personal Website/Portfolio: [your-website.com](https://www.your-website.com)-->
 
 Let's build something amazing together! 🚀
