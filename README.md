@@ -14,18 +14,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
-<h3 align="center">Trying to be a Full Stack  Developer</h3>
 
-- 💬 Ask me about : **MERN**
-  
-- 🌱 I’m currently learning **Typescript and vertically scaling my Mern skills  :))**
-
-- 📫 How to reach me **nidhish0430@gmail.com**
+<h3 align="center">
+I am a Full Stack developer with higher profiency in front-end development
+</h3>
 
 
-TECH STACK : 
+Welcome to my GitHub repository! I'm a skilled Full Stack Developer with a focus on front-end development, proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB, Zustand, React Query, vanilla CSS, and HTML. I'm passionate about crafting intuitive and user-friendly web applications.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,css,tailwind,git,express,nodejs,mongodb)](https://skillicons.dev)
+## Skills
 
-<!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
+- **Front-End Development:** JavaScript, TypeScript, ReactJS, Next.js, HTML, CSS
+- **Back-End Development:** Node.js, Express.js, MongoDB
+- **State Management:** Zustand, React Query
+- **Database:** MongoDB
+- **Styling:** Vanilla CSS, CSS frameworks (Bootstrap, Tailwind CSS)
+- **Version Control:** Git, GitHub
 
+## Projects
+
+Here are some notable projects that showcase my skills and expertise:
+
+1. **Project 1:** Brief description and link to the project's repository or live demo.
+2. **Project 2:** Brief description and link to the project's repository or live demo.
+3. **Project 3:** Brief description and link to the project's repository or live demo.
+
+Feel free to explore my repositories for more projects and code samples.
+
+## Contact
+
+If you have any inquiries, collaboration opportunities, or just want to say hello, feel free to reach out to me through the following channels:
+
+- Email: [nidhish0430@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [nidhish-srivastava](https://www.linkedin.com/in/your-name)
+- Personal Website/Portfolio: [your-website.com](https://www.your-website.com)
+
+Let's build something amazing together! 🚀
