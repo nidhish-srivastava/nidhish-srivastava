@@ -6,13 +6,12 @@ I am a MERN Stack developer with higher profiency in front-end development
 </h3>
 
 
-Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a focus on front-end development, proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB, Zustand, React Query, vanilla CSS, and HTML. I'm passionate about crafting intuitive and user-friendly web applications.
+Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a focus on front-end development, proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB,vanilla CSS, and HTML. I'm passionate about crafting intuitive and user-friendly web applications.
 
 ## Skills
 
 - **Front-End Development:** JavaScript, TypeScript, ReactJS, Next.js, HTML, CSS
-- **Back-End Development:** Node.js, Express.js, MongoDB
-<!--- **State Management:** Zustand, React Query-->
+- **Back-End Development:** Node.js, Express.js, MongoDB<!--- **State Management:** Zustand, React Query-->
 - **Database:** MongoDB
 - **Styling:** Vanilla CSS
 - **Version Control:** Git, GitHub
