@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a focus
 
 - **Front-End Development:** JavaScript, TypeScript, ReactJS, Next.js, HTML, CSS
 - **Back-End Development:** Node.js, Express.js, MongoDB
-- **State Management:** Zustand, React Query
+<!--- **State Management:** Zustand, React Query-->
 - **Database:** MongoDB
 - **Styling:** Vanilla CSS
 - **Version Control:** Git, GitHub
