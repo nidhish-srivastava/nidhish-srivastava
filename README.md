@@ -15,7 +15,7 @@ Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a bette
 - **Database:** MongoDB
 - **Styling:** Vanilla CSS , TailwindCSS , shadcn/ui
 - **Version Control:** Git, GitHub
-- **DevOps:** Docker
+  <!--- **DevOps:** Docker
 <!--
 ## Projects
 
