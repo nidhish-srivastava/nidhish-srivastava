@@ -10,7 +10,7 @@ Welcome to my GitHub repository! I'm a skilled MERN Stack Developer with a bette
 
 ## Skills
 
-- **Front-End Development:** JavaScript, TypeScript, ReactJS, Next.js, HTML, CSS
+- **Front-End Development:** JavaScript, TypeScript, ReactJS, Next.js
 - **Back-End Development:** Node.js, Express.js<!--- **State Management:** Zustand, React Query-->
 - **Database:** MongoDB
 - **Styling:** Vanilla CSS , TailwindCSS , shadcn/ui
