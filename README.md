@@ -6,7 +6,7 @@ I am a MERN Stack developer
 </h3>
 
 
-Welcome to my GitHub repository! I'm a skilled MERN Stack Developer , proficient in JavaScript, TypeScript, ReactJS, ExpressJS, Next.js, Node.js, MongoDB. I'm passionate about crafting intuitive and user-friendly web applications.
+Welcome to my GitHub repository! I'm a skilled MERN Stack Developer . I'm passionate about crafting intuitive and user-friendly web applications.
 
 ## Skills
 
