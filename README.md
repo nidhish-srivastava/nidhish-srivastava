@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
 
 <h3 align="center">
-MERN Stack developer | AWS Enthusiast
+MERN Stack developer
 </h3>
 
 
