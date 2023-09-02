@@ -6,8 +6,6 @@ MERN Stack developer | AWS Enthusiast
 </h3>
 
 
-Welcome to my GitHub repository! I'm a skilled MERN Stack Developer . I'm passionate about crafting intuitive and user-friendly web applications.
-
 ## Skills
 
 - **JavaScript, TypeScript**
