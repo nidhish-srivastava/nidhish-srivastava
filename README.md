@@ -5,17 +5,20 @@
 Full Stack developer
 </h3>
 
-
+<!--
 ## Skills
-
+<!--
 - **JavaScript, TypeScript**
 - **Node.js, Express.js**
 - **ReactJs, NextJs,ReduxToolkit**
    <!--- **State Management:** Zustand, React Query-->
-- **MongoDB,Firebase**
+<!--- **MongoDB,Firebase**
 - **Vanilla CSS , TailwindCSS , shadcn/ui**
 - **Git, GitHub**
   <!--- **DevOps:** Docker
+<!--
+-->
+
 <!--
 ## Projects
 
