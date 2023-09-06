@@ -1,9 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Nidhish Srivastava</h1>
+<h2 align="left">Hi 👋</h2>
 
-<h3 align="center">
-Full Stack developer
-</h3>
+I'm a Full Stack developer
 
 <!--
 ## Skills
