@@ -15,9 +15,9 @@ Vertically scaling my Full Stack skills :))
 - **Git, GitHub , Docker , VSCode, Vercel , Cloudinary**
 
 ## Experience
-- **Goyaana** -
+- **Triluxo Technologies** -
      Front End Dev Intern
-  - Contributed in the development of the Travel website using ReactJs,Typescript and TailwindCSS.
+  - Contributed in the development of the Travel website using ReactJs,NextJs,Typescript and TailwindCSS.
   - Created interactive and responsive UI with reusable react components with proper state management.
   - Integrated the APIs with the front end ensuring smooth data flow and proper error handling.
    <!--- **State Management:** Zustand, React Query-->
