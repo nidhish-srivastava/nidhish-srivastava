@@ -3,7 +3,7 @@
 
 I'm a Full Stack developer
 
-Vertically scaling my Full Stack skills :))
+Vertically and horizontally scaling my Full Stack skills :))
 
 
 ## Skills
