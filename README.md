@@ -3,7 +3,9 @@
 
 I'm a Full Stack developer
 
+<!--
 Vertically and horizontally scaling my Full Stack skills :))
+-->
 
 <!--
 ## Skills
