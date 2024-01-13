@@ -5,7 +5,7 @@ I'm a Full Stack developer
 
 Vertically and horizontally scaling my Full Stack skills :))
 
-
+<!--
 ## Skills
 - **JavaScript, TypeScript**
 - **ReactJs, NextJs**
@@ -13,6 +13,7 @@ Vertically and horizontally scaling my Full Stack skills :))
 - **MongoDB , Firebase**
 - **Vanilla CSS , TailwindCSS , shadcn/ui**
 - **Git, GitHub , Docker , VSCode, Vercel , Cloudinary**
+-->
 
 
 <!--## Experience
