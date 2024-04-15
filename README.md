@@ -1,7 +1,10 @@
 
 <h2 align="left">Hi 👋</h2>
 
-I'm a Full Stack developer
+I'm a Front end heavy Full Stack developer. 
+
+On a journey of creating products which solve real world problems.
+
 
 <!--
 Vertically and horizontally scaling my Full Stack skills :))
