@@ -6,7 +6,7 @@
 ## Highly Proficient in 
 
 - **Javascript , Typescript**
-- **ReactJs, NextJs**
+- **ReactJs, NextJs,Redux,Zustand,React Query**
 - **CSS, TailwindCss**
 - **Git,Github**
 - **MongoDB,Firebase,Prisma**
