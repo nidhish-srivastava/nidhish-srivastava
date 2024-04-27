@@ -1,10 +1,16 @@
 
 <h2 align="left">Hi 👋</h2>
 
-I'm a Front end heavy Full Stack developer. 
+**I'm a Front end heavy Full Stack developer. On a journey of creating products which solve real world problems.**
 
-On a journey of creating products which solve real world problems.
+## Highly Proficient in 
 
+- **Javascript , Typescript**
+- **ReactJs, NextJs**
+- **CSS, TailwindCss**
+- **Git,Github**
+- **MongoDB,Firebase,Prisma**
+- **Nodejs,ExpressJs**
 
 <!--
 Vertically and horizontally scaling my Full Stack skills :))
