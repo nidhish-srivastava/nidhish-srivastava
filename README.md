@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋</h2>
 
-**I'm a Front end heavy Full Stack developer. On a journey of creating products which solve real world problems.**
+**Full Stack developer. On a journey of creating products which solve real world problems.Currently exploring Web3 in Ethereum chain**
 
 ## Highly Proficient in 
 
