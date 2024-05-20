@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋</h2>
 
-**Full Stack developer. On a journey of creating products which solve real world problems.Currently exploring Web3 in Ethereum chain**
+**Full Stack developer. On a journey of creating products which solve real world problems.Currently exploring Web3 in Ethereum chain and AI as well**
 
 ## Highly Proficient in 
 
