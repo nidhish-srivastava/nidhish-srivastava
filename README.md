@@ -3,6 +3,7 @@
 
 **Full Stack developer. On a journey of creating products which solve real world problems.**
 
+<!--
 ## Highly Proficient in 
 
 - **Javascript , Typescript**
@@ -11,6 +12,7 @@
 - **Git,Github**
 - **MongoDB,Firebase,Prisma**
 - **Nodejs,ExpressJs**
+-->
 
 <!--
 Vertically and horizontally scaling my Full Stack skills :))
