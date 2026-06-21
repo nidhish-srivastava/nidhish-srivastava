@@ -1,9 +1,12 @@
 
 <h2 align="left">Hi 👋</h2>
 
-**AI Engineer and a Full Stack developer. Building the next million dollar AI B2B SaaS**
+
 
 <!--
+
+**AI Engineer and a Full Stack developer. Building the next million dollar MRR AI B2B SaaS**
+
 ## Highly Proficient in 
 
 - **Javascript , Typescript**
