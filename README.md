@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋</h2>
 
-**Full Stack developer. On a journey of creating products which solve real world problems.**
+**AI Engineer and a Full Stack developer. Building the next million dollar AI B2B SaaS**
 
 <!--
 ## Highly Proficient in 
